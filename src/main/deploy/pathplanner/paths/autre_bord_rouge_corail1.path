@@ -1,0 +1,54 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 10.345389344262294,
+        "y": 6.692264344262294
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 11.35235655737705,
+        "y": 6.704252049180327
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 14.337295081967211,
+        "y": 6.11685450819672
+      },
+      "prevControl": {
+        "x": 13.354303278688525,
+        "y": 6.908043032786885
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "autre_bord_rouge_corail1"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 2.5,
+    "maxAcceleration": 4.25,
+    "maxAngularVelocity": 275.0,
+    "maxAngularAcceleration": 500.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": -119.99999999999999
+  },
+  "reversed": false,
+  "folder": "autre_bord_red",
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": 180.0
+  },
+  "useDefaultConstraints": true
+}

@@ -1,0 +1,59 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 3.2606557377049183,
+        "y": 1.9691086065573769
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 3.0794058793063153,
+        "y": 1.7969212410787032
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 1.7022540983606556,
+        "y": 1.3517418032786883
+      },
+      "prevControl": {
+        "x": 1.930399368075645,
+        "y": 1.453965753049154
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [
+    {
+      "waypointRelativePos": 0.24946695095949,
+      "rotationDegrees": -21.195740083364146
+    }
+  ],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 2.5,
+    "maxAcceleration": 4.25,
+    "maxAngularVelocity": 275.0,
+    "maxAngularAcceleration": 500.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0.0,
+    "rotation": -142.75521710734054
+  },
+  "reversed": false,
+  "folder": "Auto 2 corail",
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": 58.5069321996469
+  },
+  "useDefaultConstraints": true
+}
